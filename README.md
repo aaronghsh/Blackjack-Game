@@ -17,11 +17,3 @@ This Blackjack game includes:
 - Players start with a balance of $100 and can place bets at the start of each round.
 
 ---
-
-## **How to Play**
-
-1. Clone or download the repository.
-2. Compile and run the program in your favorite Java IDE or terminal:
-   ```bash
-   javac Blackjack.java
-   java Blackjack
