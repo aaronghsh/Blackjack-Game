@@ -1,6 +1,6 @@
-# Blackjack Game ♠️
+# Java Blackjack Game ♠️
 
-Welcome to the **Blackjack Game** project! This is a console-based implementation of the classic Blackjack card game written in Java. Players can compete against the dealer while managing bets and making strategic decisions.
+This is a console-based implementation of the classic Blackjack card game written in Java. Players can compete against the dealer while managing bets and making strategic decisions.
 
 ---
 
@@ -16,4 +16,4 @@ This Blackjack game includes:
   - **Split**: Split your hand into two if your first two cards have the same value.
 - Players start with a balance of $100 and can place bets at the start of each round.
 
----
+
